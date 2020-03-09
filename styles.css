@@ -136,16 +136,16 @@ img {
 
 .dot.model {
     left: 80%;
-    top: 60%;
+    top: 65%;
 }
 
 .dot.materials {
-    top: 30%;
+    top: 35%;
     left: 12%;
 }
 
 .dot.felt {
-    top: 52%;
+    top: 58%;
     left: 25%;
 }
 
@@ -156,7 +156,7 @@ img {
 
 .dot.mirror {
     top: 3%;
-    right: 33%;
+    right: 20%;
 }
 
 /*****************************
